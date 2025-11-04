@@ -224,4 +224,4 @@ MIT License - See LICENSE file for details.
 Thiago Soares
 - GitHub: [@Thiagocsoaresbh](https://github.com/Thiagocsoaresbh)
 - Project: [FleetView Live Tracker](https://github.com/Thiagocsoaresbh/fleetview-live-tracker)
-- Twitter/X: @thiagocsoares
+- Twitter/X: [@thiagocsoares](https://x.com/thiagocsoares)
